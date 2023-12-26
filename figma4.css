@@ -1,0 +1,42 @@
+.center h3{
+    height: 5%;
+    width: 80%;
+    background-color: white;
+    padding: 2em;
+    margin-top:20px;
+    margin-left:60px;
+    margin-right:70px;
+    border-radius:.8em;
+    box-shadow:.2em 1em 1.2em rgb(217, 228, 228);
+}
+.col1{
+    background-color: lightcoral;
+    width: 30%;
+    height: 50%;
+    margin-top: 10px;
+    margin-left: 150px;
+    padding: 1em;
+    color: white;
+    float: left;
+    
+}
+.col2{
+    background-color: white;
+    height: 50%;
+    width: 30%;
+    margin-left:150px;
+    margin-top: 10px;
+    float: left;
+    padding: 1em;
+    margin-right: 50px;
+    margin: 10px;
+}
+.wordcolour{
+    color: red;
+}
+.clascolor{
+    color:red
+}
+.signcolor{
+    background-color: red;
+}
